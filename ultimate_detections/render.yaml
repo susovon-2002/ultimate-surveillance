@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: ultimate-surveillance
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn webrtc_full:app --worker-class eventlet --timeout 0
+    envVars:
+      - key: YOLO_MODEL
+        value: fire_train/fire_model5/weights/best.pt
+      - key: DEVICE
+        value: cpu
+      - key: ADMIN_PW
+        value: admin123
+      - key: PREVIEW_WIDTH
+        value: "640"
