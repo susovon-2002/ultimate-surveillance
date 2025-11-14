@@ -1,0 +1,9 @@
+flask
+flask-socketio
+eventlet
+ultralytics
+opencv-python-headless
+numpy
+pillow
+onnxruntime  # optional; only if you will use ONNX face models
+requests

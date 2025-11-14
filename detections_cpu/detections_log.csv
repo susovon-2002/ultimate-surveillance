@@ -1,0 +1,9 @@
+timestamp,event,details,path
+2025-11-13T14:05:08.255479,alarm,Fire(heuristic),detections_cpu\alarm_20251113_140508.jpg
+2025-11-13T14:05:08.292976,record_start,Fire(heuristic),detections_cpu\clip_20251113_140508.mp4
+2025-11-13T14:05:28.056146,alarm,Fire(heuristic),detections_cpu\alarm_20251113_140528.jpg
+2025-11-13T14:05:28.064994,record_start,Fire(heuristic),detections_cpu\clip_20251113_140528.mp4
+2025-11-13T14:06:07.497817,alarm,Fire(heuristic),detections_cpu\alarm_20251113_140607.jpg
+2025-11-13T14:06:07.505223,record_start,Fire(heuristic),detections_cpu\clip_20251113_140607.mp4
+2025-11-13T14:07:44.744797,alarm,Fire(heuristic),detections_cpu\alarm_20251113_140744.jpg
+2025-11-13T14:07:44.751535,record_start,Fire(heuristic),detections_cpu\clip_20251113_140744.mp4

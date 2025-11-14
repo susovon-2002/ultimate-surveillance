@@ -1,0 +1,16 @@
+timestamp,event,details,path
+2025-11-13T14:08:54.080910,alarm,fire_heuristic,detections_flask\alarm_20251113_140854.jpg
+2025-11-13T14:08:54.093304,record_start,fire_heuristic,detections_flask\clip_20251113_140854.mp4
+2025-11-13T14:09:02.370607,record_end,,detections_flask\clip_20251113_140854.mp4
+2025-11-13T14:09:10.080904,alarm,fire_heuristic,detections_flask\alarm_20251113_140910.jpg
+2025-11-13T14:09:10.088303,record_start,fire_heuristic,detections_flask\clip_20251113_140910.mp4
+2025-11-13T14:09:11.732692,alarm,fire_heuristic,detections_flask\alarm_20251113_140911.jpg
+2025-11-13T14:09:13.398540,alarm,fire_heuristic,detections_flask\alarm_20251113_140913.jpg
+2025-11-13T14:09:15.148089,alarm,fire_heuristic,detections_flask\alarm_20251113_140915.jpg
+2025-11-13T14:09:16.887981,alarm,fire_heuristic,detections_flask\alarm_20251113_140916.jpg
+2025-11-13T14:09:18.216658,alarm,fire_heuristic,detections_flask\alarm_20251113_140918.jpg
+2025-11-13T14:09:18.230637,record_end,,detections_flask\clip_20251113_140910.mp4
+2025-11-13T14:09:19.892813,alarm,fire_heuristic,detections_flask\alarm_20251113_140919.jpg
+2025-11-13T14:09:19.900301,record_start,fire_heuristic,detections_flask\clip_20251113_140919.mp4
+2025-11-13T14:09:22.964075,alarm,fire_heuristic,detections_flask\alarm_20251113_140922.jpg
+2025-11-13T14:09:29.264912,record_end,,detections_flask\clip_20251113_140919.mp4

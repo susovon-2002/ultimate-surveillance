@@ -1,0 +1,3 @@
+timestamp,camera,event,details,path
+2025-11-13T15:17:34.416921,0,alarm,"fire:heuristic(area=2888,motion=242)",ultimate_detections\alarm_cam0_20251113_151733.jpg|ultimate_detections\alarmclip_cam0_20251113_151733.mp4
+2025-11-13T15:18:29.263894,0,alarm,fall_detected,ultimate_detections\alarm_cam0_20251113_151828.jpg|ultimate_detections\alarmclip_cam0_20251113_151828.mp4
